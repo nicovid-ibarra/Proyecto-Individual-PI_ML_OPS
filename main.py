@@ -60,7 +60,7 @@ async def sentiment_analysis(year: int):
         return {'Reviews positivas': int(positivo), 'Reviews negativas': int(negativo), 'Reviews Neutras': int(neutro)}
 
 
-@app.get('/extract_genres_by_item_id/{year}',name='Devuelve 5 juegos similares')
+@app.get('/extract_genres_by_item_id/{item_id}',name='Devuelve 5 juegos similares')
 async def extract_genres_by_item_id(item_id):
     #Primero se realiza una serie de filtros para achicar el df
     #Se extrae el o los generos asociados al juego usando datb
