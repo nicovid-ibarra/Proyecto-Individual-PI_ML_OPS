@@ -61,7 +61,7 @@ async def sentiment_analysis(year: int):
 
 
 @app.get('/extract_genres_by_item_id/{item_id}',name='Devuelve 5 juegos similares')
-async def extract_genres_by_item_id(item_id):
+async def extract_genres_by_item_id(item_id:int):
     #Primero se realiza una serie de filtros para achicar el df
     #Se extrae el o los generos asociados al juego usando datb
     genres = datb[datb['item_id'] == item_id]['genres'].tolist()
