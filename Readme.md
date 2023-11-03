@@ -4,7 +4,7 @@
 
 # <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 <p align="center">
-<img src="./_src/images/img_1.png"  height=400>
+<img src="./_src/images/img_1.png"  height=350>
 </p>
 
 # **Introducción**
