@@ -85,5 +85,4 @@ async def extract_genres_by_item_id(item_id:int):
     # Obtener los 5 item_id con la puntuación más alta
     top_5_items = filtered_data_final['item_id'].unique()[:5]
     app_names = list(set(datb[datb['item_id'].isin(top_5_items)]['app_name']))
-    
     return app_names
