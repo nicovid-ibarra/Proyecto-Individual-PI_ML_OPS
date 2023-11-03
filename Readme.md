@@ -119,7 +119,7 @@ En esta ultima seccion, el objetivo es realizar un modelo de machine learning qu
 
 + [Diccionario de datos](https://drive.google.com/drive/folders/1HqBG2-sUkz_R3h1dZU5F2uAzpRn7BSpj): Diccionario con algunas descripciones de las columnas disponibles en el dataset.
 
-+ [Video explicativo](https://www.youtube.com/watch?v=6X3lFgMQs54) Un video propio explicando algunos conceptos sobre el proyecto.
++ [Video explicativo](https://www.youtube.com/watch?v=UFNQbAumfmU&ab_channel=NicolasIbarra) Un video propio explicando algunos conceptos sobre el proyecto.
 
 + [Linkedin](https://www.linkedin.com/in/nicovid-ibarra/) Perfil oficial de Linkedin
 
